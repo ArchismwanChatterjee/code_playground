@@ -6,7 +6,7 @@ RUN apt-get update && apt-get install -y python3 gcc
 WORKDIR /app
 COPY . .
 
-RUN npm install
+RUN npm install --legacy-peer-deps
 RUN npm run build
 
 EXPOSE 3000

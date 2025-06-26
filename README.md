@@ -2,6 +2,8 @@
 
 This project is an interactive playground for exploring and learning SQL, Python, JavaScript, and C code execution in a user-friendly web interface. It is designed to help users experiment with queries and code snippets, view results instantly, and manage multiple playgrounds with ease.
 
+Deployed with Railway and Render using the dockerfile try it out here : [Link1](https://codeplayground-production.up.railway.app/) and [Link2](https://code-playground-9nln.onrender.com/)
+
 ## Why This Project?
 
 This project is a hands-on exploration of how modern code execution platforms like Replit, Jupyter, or SQLFiddle work under the hood. My goal was to build a secure, browser-based environment where users can write and execute code in Python, JavaScript, SQL, and C, seeing results instantly.

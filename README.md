@@ -58,8 +58,4 @@ Each playground session maintains its own code and query history via `localStora
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the playground.
 
-## License
-
-MIT
-
 ---
